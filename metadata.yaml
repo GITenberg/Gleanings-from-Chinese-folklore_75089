@@ -1,11 +1,16 @@
 _repo: Gleanings-from-Chinese-folklore_75089
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Russell, Nellie N.
     gutenberg_agent_id: '57819'
     url: http://www.gutenberg.org/2009/agents/57819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75089#Gleanings-from-Chinese-folklore
 gutenberg_issued: '2025-01-12'
 gutenberg_type: Text
 identifiers:
